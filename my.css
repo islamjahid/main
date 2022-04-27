@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: o;
+    outline: 0;
+    vertical-align: middle;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+.baner{
+    background: url(./flower-gffd898b6e_640.jpg);
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul{
+    text-decoration: ;
+    background-color: aquamarine;
+}
+li{
+list-style-type: none;
+display: block;
+float: left;
+}
+a{
+    text-decoration: none;
+    padding: 20px;
+    color: brown;
+}
+a:hover{
+    background-color: tomato;
+    color: teal;
+    text-transform: capitalize;
+}
+#active{
+    color: teal;
+}
+.one{
+    color: blue;
+    border: 2px solid green;
+    border-radius: 10px;
+}
